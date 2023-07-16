@@ -1,7 +1,7 @@
 import java.util.Deque;
 import java.util.LinkedList;
 
-public class Zadanie2 {
+public class Zadanie1 {
     public static Deque<Integer> multiply(Deque<Integer> num1, Deque<Integer> num2) {
         Deque<Integer> result = new LinkedList<>();
 
